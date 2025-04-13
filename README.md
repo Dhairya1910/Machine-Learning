@@ -17,7 +17,7 @@ Whether you're revisiting the basics or diving into classic ML algorithms, this 
 
 ## Topics Covered
 
-### 🛠**1. Data Preprocessing**
+### **1. Data Preprocessing**
 - Handling missing values
 - Feature scaling (StandardScaler, MinMaxScaler)
 - Encoding (OneHot, Label)
@@ -31,6 +31,7 @@ Whether you're revisiting the basics or diving into classic ML algorithms, this 
 - **Decision Trees**
 - **Random Forests**
 - **Naive Bayes**
+- **Gradient Boosting**
 
 ### **3. Model Evaluation**
 - Accuracy, Precision, Recall, F1-score
@@ -38,10 +39,18 @@ Whether you're revisiting the basics or diving into classic ML algorithms, this 
 - Cross-validation
 - ROC-AUC
 
-### 🔍 **4. Unsupervised Learning**
+###  **4. Unsupervised Learning**
 - **K-Means Clustering**
 - **PCA (Dimensionality Reduction)**
 
+### **5. Pipeline Designing**
+- Creating Robust machine learning pipelines
+  
+### **6. Sentiment Analysis**
+- Sentiment analysis using Vader and blob
+  
+### **7. WebScrapers**
+- Created webscrapers using Selenium , beautifulsoup
 ---
 
 ## Mini Projects
