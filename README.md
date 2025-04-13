@@ -48,9 +48,10 @@ Whether you're revisiting the basics or diving into classic ML algorithms, this 
 
 | Project                     | Description                                       
 |----------------------------|---------------------------------------------------|
-| House Price Prediction     | Regression model to predict house prices          |
-| Machine Job Classification | Classify machine job                              | 
+| Rain Prediction            | Regression model to predict rain                  |
+| Machine error prediction   | Classify machine job                              | 
 | Simple Stock prediction    | Simple stock predictions model                    |
+| Job Classification         | Classification model to predict Jobs              |
 
 ---
 
